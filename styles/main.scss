@@ -1,0 +1,10 @@
+$navbar-height: 50px;
+
+$developer-margin: 15px;
+
+li#developer {
+  line-height: $navbar-height;
+  color: rgb(99, 99, 99);
+  margin-left: $developer-margin;
+  margin-right: $developer-margin;
+}
